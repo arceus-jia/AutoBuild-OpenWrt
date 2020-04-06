@@ -14,3 +14,4 @@ Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenW
 - Default Web Admin IP: `192.168.5.1`, username `root`，password `password`
 
 [For the details please visit my Y2B Channel (in Chinese) | 视频教程](https://www.youtube.com/c/esirplayground)
+
