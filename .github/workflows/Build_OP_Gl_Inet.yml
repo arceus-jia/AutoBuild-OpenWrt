@@ -64,7 +64,7 @@ jobs:
 
     - name: Clone other packages
       working-directory: ./openwrt/package
-      run: git clone https://github.com/kenzok8/openwrt-packages.git
+      run: git clone https://github.com/fw876/helloworld.git
       
     - name: Update & Install feeds
       working-directory: ./openwrt
